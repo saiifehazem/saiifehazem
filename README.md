@@ -1,13 +1,13 @@
 
 ##### Hi, I'm Saif:
 
-- 🎓 Computer science sophomre at Faculty of computers and artificial intelligience - Cairo University
+- 🎓 Computer science sophomore at Faculty of computers and artificial intelligience - Cairo University
 - :test_tube: Making researches in cybersecurity and preparing to make the industry transition
 - :mailbox: You can reach me with the links below
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iSaif)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifehazemb@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiifehazem/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifehazem/)
 
 ##### Languages I use
 
@@ -28,5 +28,6 @@
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 
+![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saiifehazem&theme=dark&show_icons=true)
 
 ⭐️ From [Saif El-Din Hazem](https://github.com/saiifehazem)
