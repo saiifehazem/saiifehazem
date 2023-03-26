@@ -1,7 +1,7 @@
 
 ##### Hi, I'm Saif:
 
-- 🎓 Computer science sophomore at Faculty of computers and artificial intelligience - Cairo University
+- 🎓 Computer science sophomore at Faculty of computers and artificial intelligence - Cairo University
 - :test_tube: Making researches in cybersecurity and preparing to make the industry transition
 - :mailbox: You can reach me with the links below
 
