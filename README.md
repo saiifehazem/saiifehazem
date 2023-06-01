@@ -2,7 +2,6 @@
 ##### Hi, I'm Saif:
 
 - 🎓 Computer science sophomore at Faculty of computers and artificial intelligence - Cairo University
-- :test_tube: Making researches in cybersecurity and preparing to make the industry transition
 - :mailbox: You can reach me with the links below
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifehazem/)
