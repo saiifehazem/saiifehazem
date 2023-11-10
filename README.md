@@ -26,7 +26,3 @@
 ![Django](https://img.shields.io/badge/-django-222222?style=flat&logo=Django&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
-
-![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saiifehazem&theme=dark&show_icons=true)
-
-⭐️ From [Saif El-Din Hazem](https://github.com/saiifehazem)
