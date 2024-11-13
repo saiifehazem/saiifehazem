@@ -1,7 +1,7 @@
 
 ##### Hi, I'm Saif:
 
-- 🎓 Junior Computer science student at Faculty of computers and artificial intelligence - Cairo University
+- 🎓 Senior Computer science student at Faculty of computers and artificial intelligence - Cairo University
 - :mailbox: You can reach me with the links below
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifehazem/)
